@@ -9,4 +9,4 @@ To install this tool follow these simple steps:
   2. $ cd dynDNS
   3. $ chmod 775 install.sh
   4. $ ./install.sh
-  5. Let the installer vibe!
+  5. Let the installer vibes!
